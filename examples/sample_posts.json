@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "text": "Community gardens bring neighbors together to grow fresh food.",
+      "created_at": "2025-01-02T09:30:00Z",
+      "author": "gardenclub"
+    },
+    {
+      "text": "Sharing seeds, knowledge, and fresh food with our neighborhood.",
+      "created_at": "2025-01-02T14:15:00Z",
+      "author": "urbanfarmer"
+    },
+    {
+      "text": "A greener neighborhood starts with one community garden.",
+      "created_at": "2025-01-03T10:00:00Z",
+      "author": "gardenclub"
+    }
+  ]
+}
